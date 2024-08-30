@@ -2,7 +2,7 @@
     "questions": [
         {
             "question": "Uzupełnij przysłowie `Gdzie diabeł nie może, tam ___ pośle`. Odpowiedz krótko, jednym wyrazem.",
-            "verification": "```correctAnswer: babę``` \n ```modelAnswer: {modelAnswer}```"
+            "verification": "Czy to jest ten sam wyraz? ```correctAnswer: babę``` \n ```modelAnswer: {modelAnswer}```"
         },
         {
             "question": "Jaki sens ma słowo `zamek` w zdaniu: `W naszym domu, zamek w drzwiach był średniowieczny`?\nWybierz poprawną odpowiedź:\nA - średniowieczna budowla,\nB - mechanizm zamykający. Odpowiedz krótko A lub B",
