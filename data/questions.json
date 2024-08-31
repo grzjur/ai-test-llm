@@ -21,11 +21,11 @@
             "verification": "Czy to jest ten sam dzień tygodnia?  ```correctAnswer: Środa``` \n ```modelAnswer: {modelAnswer}```"
         },
         {
-            "question": "Uporządkuj chronologicznie zdania, przyczyna skutek:\n1) potrącam stolik\n2) rozlana woda szklanka toczy się po stole\n3) pusta szklanka stoi na stole\n4) szkło na podłodze\n5) szklanka pełna wody\n6) nalewam wodę\nOdpowiedz krótko, podaj tylko kolejność cyfr i nic więcej",
+            "question": "Uporządkuj chronologicznie zdania, przyczyna skutek:\n1) potrącam stolik\n2) rozlana woda szklanka toczy się po stole\n3) pusta szklanka stoi na stole\n4) szkło na podłodze\n5) szklanka pełna wody\n6) nalewam wodę\n\nOdpowiedz krótko, podaj tylko kolejność cyfr i nic więcej",
             "verification": "Porównaj kolejność cyfr. ```correctAnswer: 3, 6, 5, 1, 2, 4 ``` \n ```modelAnswer: {modelAnswer}```"
         },
         {
-            "question": "Uporządkuj chronologicznie zdania, przyczyna skutek:\n1) Cisza, to nie telefon.\n2) Podnoszę słuchawkę.\n3) Ktoś dzwoni.\n4) Odkladam telefon.\nOdpowiedz krótko, podaj tylko kolejność cyfr i nic więcej",
+            "question": "Uporządkuj chronologicznie zdania, przyczyna skutek:\n1) Cisza, to nie telefon.\n2) Podnoszę słuchawkę.\n3) Ktoś dzwoni.\n4) Odkladam telefon.\n\nOdpowiedz krótko, podaj tylko kolejność cyfr i nic więcej",
             "verification": "Porównaj kolejność cyfr. ```correctAnswer: 3, 2, 1, 4 ``` \n ```modelAnswer: {modelAnswer}```"
         },
         {

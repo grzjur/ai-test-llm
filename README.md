@@ -7,16 +7,18 @@ Liczba powtórzeń jednego pytania: 5
 | Platforma | Model LLM | Wynik (%) |
 |-----------|-----------|--------|
 |anthropic|claude-3-5-sonnet-20240620|91 %|
-|openai|gpt-4o|80 %|
-|ollama|SpeakLeash/bielik-11b-v2.2-instruct-imatrix:Q6_K|69 %|
-|openai|gpt-4o-mini|49 %|
-|groq|gemma2-9b-it|47 %|
-|groq|mixtral-8x7b-32768|45 %|
-|ollama|qwen2|31 %|
-|ollama|mistral|31 %|
-|ollama|aya|25 %|
-|groq|llama3-8b-8192|25 %|
-|ollama|phi3|5 %|
+|ollama|SpeakLeash/bielik-11b-v2.2-instruct-imatrix:Q6_K|80 %|
+|openai|gpt-4o|78 %|
+|openai|gpt-4o-mini|55 %|
+|groq|mixtral-8x7b-32768|42 %|
+|groq|gemma2-9b-it|42 %|
+|ollama|llama3.1|35 %|
+|ollama|qwen2|33 %|
+|ollama|mistral-nemo|33 %|
+|groq|llama3-8b-8192|29 %|
+|ollama|aya|27 %|
+|ollama|mistral|22 %|
+|ollama|phi3.5|9 %|
 
 
 ### Pytania:
@@ -50,6 +52,7 @@ Uporządkuj chronologicznie zdania, przyczyna skutek:
 4) szkło na podłodze
 5) szklanka pełna wody
 6) nalewam wodę
+
 Odpowiedz krótko, podaj tylko kolejność cyfr i nic więcej
 
 ---
@@ -58,6 +61,7 @@ Uporządkuj chronologicznie zdania, przyczyna skutek:
 2) Podnoszę słuchawkę.
 3) Ktoś dzwoni.
 4) Odkladam telefon.
+
 Odpowiedz krótko, podaj tylko kolejność cyfr i nic więcej
 
 ---
